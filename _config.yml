@@ -2,4 +2,4 @@ encoding: utf-8
 markdown: redcarpet
 baseurl: /Blog
 exclude: ['README.md']
-highlighter: pygments
+highlighter: rouge

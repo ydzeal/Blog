@@ -1,5 +1,5 @@
 encoding: utf-8
 markdown: redcarpet
-baseurl: /Blog
+baseurl: /
 exclude: ['README.md']
 highlighter: rouge

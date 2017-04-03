@@ -5,8 +5,8 @@ logo: /hcz-jekyll-blog/static/img/avatar.png
 github: https://github.com/ashutosh2k12
 about: Freelance developer
 
-baseurl: "http://dzyang.xyz/"
-url: "http://dzyang.xyz/"
+baseurl: "http://dzyang.xyz"
+url: "http://dzyang.xyz"
 
 disqus_shortname: aboutashu
 google_analytics: UA-72862926-1

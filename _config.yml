@@ -5,7 +5,7 @@ logo: /hcz-jekyll-blog/static/img/avatar.png
 github: https://github.com/ashutosh2k12
 about: Dream is composed of acts
 
-baseurl: "http://dzyang.xyz"
+baseurl: ""
 url: "http://dzyang.xyz"
 
 disqus_shortname: aboutashu
